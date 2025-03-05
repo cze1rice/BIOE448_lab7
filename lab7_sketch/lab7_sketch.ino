@@ -1,4 +1,4 @@
-#include "thingsProperties.h"
+#include "thingProperties.h"
 
 
 int sensor_pin = 0;

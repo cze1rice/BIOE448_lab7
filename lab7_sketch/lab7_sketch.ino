@@ -64,7 +64,7 @@ void loop() {
   }
 
   //sending to cloud
-  counter++
+  counter++;
   if (counter > 200) {
     ArduinoCloud.update();
     Serial.println(BPM);
